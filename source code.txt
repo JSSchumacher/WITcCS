@@ -1,0 +1,271 @@
+"Info:
+"WITcCS - Wireless Information Transfer on a calculator Chat Software
+"GNU Affero General Public License v3.0
+"Date Created: 07/13/2022
+"Last Update: 07/15/2022
+"V1.1
+
+
+"Cover Screen Frontend
+ClrDraw
+ClrHome
+Full
+0→A
+AxesOff
+FnOff 
+Output(2,10,"WITcCS
+Output(3,4,"Wireless Information 
+Output(4,2,"Transfer on a calculator
+Output(5,7,"Chat Software
+Output(7,11,"v1.1
+Output(8,4,"By Joshua Schumacher
+Output(9,4,"joshuaschumacher.com
+Wait 1 
+ClrHome 
+Output(2,7,"Licensed Under
+Output(3,5,"GNU Affero General 
+Output(4,7,"Public License
+Output(5,11,"v3.0
+Output(7,9,"github.com
+Output(8,7,"/JSSchumacher
+Output(9,10,"/WITcCS
+Wait 1 
+ClrHome
+
+
+"Cover Screen Backend
+ClrDraw:ClrHome:AxesOff:ZStandard:FnOff :Full
+" "→Str1
+" "→Str2
+" "→Str3
+0→A
+Repeat getKey≠0 or A=100
+A+1→A
+End
+0→A
+
+
+"Menu Frontend
+Lbl M
+ClrHome
+Full
+Output(1,11,"WITcCS
+Output(2,8,"------------
+Output(4,3,"Start Chat
+Output(5,3,"Instructions
+Output(6,3,"To Do List
+Output(7,3,"License
+Output(8,3,"Quit
+
+
+"Menu Backend
+4→X
+Repeat K=105
+Output(X,1,"->
+getKey→K
+If K
+Output(X,1,"  
+X+(K=34)(X<8)-(K=25)(X>4→X
+End
+ClrHome
+If X=4
+Goto 1
+If X=5
+Goto I
+If X=6
+Goto T
+If X=7
+Goto L
+If X=8
+Goto Q
+
+
+"To Do List
+Lbl T
+Full
+ClrDraw
+Text(0,83,"To Do
+Text(15,10,"1. Make logo
+Text(27,10,"2. Upload logo to GitHub
+Text(39,10,"3. Add logo to code
+Text(51,10,"4. Show logo before Coverscreen 
+Text(63,10,"5. Test Link with another Cal
+Text(75,10,"
+Text(87,10,"
+Text(99,10,"
+Text(111,10,"
+Text(123,10,"
+Text(145,55,"[Press  enter  to  cont.]
+Pause 
+ClrDraw
+Goto M
+
+
+
+"Chat Frontend
+Lbl H
+StorePic 3
+ClrHome
+ClrDraw
+Full
+Pause 
+Horiz
+RecallPic 3
+Goto A
+Lbl 1
+Horiz
+Text(A,1,">>>Welcome   To   WITcCS"
+A+6→A
+Disp "[ENTER]-Send","[CLEAR]-Menu","[DEL]-Hide
+
+Lbl A
+Vertical ­10
+Vertical 10
+Horizontal 10
+Str1→Str2
+Repeat Str1≠Str2 and Str1≠Str3 or K=105 or K=45 or K=23
+GetCalc(Str1
+getKey→K
+End
+If K=105
+Goto 2
+If K=23
+Goto H
+If K=45
+Goto M
+If A=0
+ClrDraw
+Str1→Str3
+length(Str1→Z
+If Z>22 and A+6≥30
+ClrDraw
+If Z>22 and A+6≥30
+0→A
+Text(A,1,"2: "+Str1
+If Z>22
+A+6→A
+If Z>22
+Text(A,1,sub(Str1,23,Z-22
+ClrHome
+A+6→A
+If A≥30:0→A
+Goto A
+
+
+Lbl 2
+ClrHome
+Input ":",Str1
+Str1→Str2
+If A=0
+ClrDraw
+length(Str1→Z
+If Z>46
+Goto ER
+If Z>22 and A+6≥30
+ClrDraw
+If Z>22 and A+6≥30
+0→A
+Text(A,1,"1: "+Str1
+If Z>22
+A+6→A
+If Z>22
+Text(A,1,sub(Str1,23,Z-22
+ClrHome
+A+6→A
+If A≥30:0→A
+Goto A
+Lbl ER
+Disp "ERROR: Too Long","Please Revise"
+Goto A
+
+
+"Instructions
+Lbl I
+Full
+ClrDraw
+Text(0,83,"Instructions
+Text(15,1,"CHATTING:
+Text(27,10,"Hold  (enter) for a few seconds to 
+Text(39,10,"enter messaging mode. Once  you 
+Text(51,10,"have  entered  text,  press (enter)
+Text(97,55,"[Press  enter  to  cont.]
+Pause 
+ClrDraw
+Text(0,83,"Instructions
+Text(15,1,"COMMANDS:
+Text(27,10,"(Enter)- Send Message/
+Text(39,10,"Messaging Mode.
+Text(51,10,"(Delete)- Hides the screen.
+Text(63,10,"(Clear)- Return to the
+Text(75,10,"main menu.
+Text(97,55,"[Press  enter  to  cont.]
+Pause 
+ClrDraw
+Goto M
+
+
+"License
+Lbl L
+Full
+ClrDraw
+Text(0,100,"License
+Text(15,10,"This software is licensed under the
+Text(27,10,"GNU Affero General Public License
+Text(39,10,"v3.0. Of which can be found here at
+Text(51,10,"github.com/JSSchumacher/WITcCS
+Text(63,10,"/blob/bc06dced7d01b629485f301c6
+Text(75,10,"40fb65aeb918a05/LICENSE
+Text(97,55,"[Press  enter  to  cont.]
+Pause 
+ClrDraw
+Text(0,100,"License
+Text(15,10,"This software is licensed under the
+Text(27,10,"Of which is stated as follows
+Text(39,10,"Permissions of this strongest copy
+Text(51,10,"-left license are conditioned on 
+Text(63,10,"making available complete source 
+Text(75,10,"code of licensed works and 
+Text(87,10,"modifications, which include larger 
+Text(99,10,"works using a licensed work, under
+Text(111,10,"the same license. Copyright and
+Text(123,10,"license notices must be preserved. 
+Text(145,55,"[Press  enter  to  cont.]
+Pause 
+ClrDraw
+Text(0,100,"License
+"Contributors provide an express
+Text(15,10,"This software is licensed under the
+Text(15,10,"Contributors provide an express
+Text(27,10,"grant of patent rights. When a mod-
+Text(39,10,"ified version is used to provide a
+Text(51,10,"service over a network, the 
+Text(63,10,"complete source code of the modif-
+Text(75,10,"ied version must be made available.
+Text(97,55,"[Press  enter  to  cont.]
+Pause 
+ClrDraw
+Goto M
+
+
+"Quit
+Lbl Q
+Full
+ClrHome
+ClrDraw
+DelVar X
+DelVar Str1
+DelVar K
+DelVar Str3
+DelVar Str2
+DelVar Str4
+DelVar A
+DelVar Y
+DelVar Z
+DelVar Pic3
+FnOn 
+AxesOn 
+Disp "Joshua Schumacher
+Disp "joshuaschumacher.com
+Disp "Some Rights Reserved
+Disp "2022
+Stop
