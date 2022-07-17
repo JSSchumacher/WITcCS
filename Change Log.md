@@ -10,6 +10,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - CNAME file to enable GitHub Pages custom domain
 
 # Notes: God this is a pain to write
+## [1.2.1] - 2022-07-16
+### Added
+- Added Nothing
+
+### Changed
+- Changed "Change Log.txt" to "Change Log.md"
+- Changed "source code.txt" to "source code" (just changed to a File, like "LICENSE")
+
+### Removed
+- Removed Nothing
+
+
+# Notes: God this is a pain to write
 ## [1.2] - 2022-07-16
 ### Added
 - Added "Logo Coverscreen"
@@ -65,6 +78,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 - Removed Nothing
 
+
 ## [1.1] - 2022-07-16
 ### Added
 - Added "Photos" Folder
@@ -97,7 +111,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/WITcCS
-[1.2]: Not Published
+[1.2.1]: Not Published
+[1.2]: https://github.com/JSSchumacher/WITcCS/commit/d0f6aceced888f7f5ac2451f29766b369cc83a5b
 [1.1.1]: https://github.com/JSSchumacher/WITcCS/commit/ed2fd372bbe973ba15cc0b01c9060fcd5711a9c9
 [1.1]: https://github.com/JSSchumacher/WITcCS/commit/90bec110cf08faaa5c061704c763b136dc7c4873
 [1.0]: No Page Available (Wasn't Uploaded To GitHub)
