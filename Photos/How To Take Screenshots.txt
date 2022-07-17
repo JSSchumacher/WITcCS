@@ -1,0 +1,1 @@
+Make sure that scale is 200% before saving

@@ -2,11 +2,15 @@
 "WITcCS - Wireless Information Transfer on a calculator Chat Software
 "GNU Affero General Public License v3.0
 "Date Created: 07/13/2022
-"Last Update: 07/15/2022
-"V1.1
+"Last Update: 07/16/2022
+"V1.2
 
 
 "Cover Screen Frontend
+AxesOff
+BackgroundOn Image9
+DispGraph
+Wait 1
 ClrDraw
 ClrHome
 Full
@@ -17,7 +21,7 @@ Output(2,10,"WITcCS
 Output(3,4,"Wireless Information 
 Output(4,2,"Transfer on a calculator
 Output(5,7,"Chat Software
-Output(7,11,"v1.1
+Output(7,11,"v1.2
 Output(8,4,"By Joshua Schumacher
 Output(9,4,"joshuaschumacher.com
 Wait 1 
@@ -34,7 +38,7 @@ ClrHome
 
 
 "Cover Screen Backend
-ClrDraw:ClrHome:AxesOff:ZStandard:FnOff :Full
+BackgroundOff:ClrDraw:ClrHome:AxesOff:ZStandard:FnOff :Full
 " "→Str1
 " "→Str2
 " "→Str3
@@ -264,6 +268,7 @@ DelVar Z
 DelVar Pic3
 FnOn 
 AxesOn 
+Disp "WITcCS V1.2
 Disp "Joshua Schumacher
 Disp "joshuaschumacher.com
 Disp "Some Rights Reserved
