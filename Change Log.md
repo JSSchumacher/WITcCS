@@ -11,6 +11,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 #### Planed Items
 - Retake every screenshot with 400% scale
+- README.md
+
+
+# Notes: God this is a pain to write
+## [1.3] - 2022-07-16/17
+### Added
+- Added "VersionNumberUopdating.md" (Future Reference know as "VNU.md")
+
+### Changed
+- Cleaned To Do List
+
+### Removed
+- Removed Nothing
+
+
+# Notes: God this is a pain to write
+## [1.2.2] - 2022-07-16
+### Added
+- Added "Planned Items" to "Change Log.md"
+
+### Changed
+- Replaced "Coverscreen2.png" with the correct image
+
+### Removed
+- Removed Nothing
 
 
 # Notes: God this is a pain to write
@@ -127,6 +152,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/WITcCS
+[1.3]: N/A
+[1.2.2]: https://github.com/JSSchumacher/WITcCS/commit/d011ece652a4880c927991d0934dde1c408524dd
 [1.2.1]: https://github.com/JSSchumacher/WITcCS/commit/4c85cff937fcce81cf04d9f74086d0d47ec4606a
 [1.2]: https://github.com/JSSchumacher/WITcCS/commit/d0f6aceced888f7f5ac2451f29766b369cc83a5b
 [1.1.1]: https://github.com/JSSchumacher/WITcCS/commit/ed2fd372bbe973ba15cc0b01c9060fcd5711a9c9
