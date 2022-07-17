@@ -9,6 +9,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   standardized open source project CHANGELOG.
 - CNAME file to enable GitHub Pages custom domain
 
+#### Planed Items
+- Retake every screenshot with 400% scale
+
+
+# Notes: God this is a pain to write
+## [1.2.2] - 2022-07-16
+### Added
+- Added "Planned Items" to "Change Log.md"
+
+### Changed
+- Replaced "Coverscreen2.png" with the correct image
+
+### Removed
+- Removed Nothing
+
+
 # Notes: God this is a pain to write
 ## [1.2.1] - 2022-07-16
 ### Added
@@ -111,7 +127,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/WITcCS
-[1.2.1]: Not Published
+[1.2.1]: https://github.com/JSSchumacher/WITcCS/commit/4c85cff937fcce81cf04d9f74086d0d47ec4606a
 [1.2]: https://github.com/JSSchumacher/WITcCS/commit/d0f6aceced888f7f5ac2451f29766b369cc83a5b
 [1.1.1]: https://github.com/JSSchumacher/WITcCS/commit/ed2fd372bbe973ba15cc0b01c9060fcd5711a9c9
 [1.1]: https://github.com/JSSchumacher/WITcCS/commit/90bec110cf08faaa5c061704c763b136dc7c4873
