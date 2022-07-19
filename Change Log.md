@@ -11,11 +11,49 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 #### Planed Items
 - Retake every screenshot with 400% scale
-- README.md
+- Add instructions to README.md
 
 
-# Notes: God this is a pain to write
+## [1.3.3] - 2022-07-19
+## Notes:
+### Added
+- Added "WITc Logo A4 A5 From Cal Screen.jpg"
+- Added "WITc Logo A4 A6 (For Phone).jpg"
+- Added "WITc Logo A4 A7 (For Computer).jpg"
+
+### Changed
+- Changed Nothing
+
+### Removed
+- Removed "Colors for WITc.jpg"
+
+
+## [1.3.2] - 2022-07-17
+## Notes:
+### Added
+- Added Nothing
+
+### Changed
+- General Markdown Sheets Clean up (VNU.md)
+
+### Removed
+- Removed Nothing
+
+
+## [1.3.1] - 2022-07-17
+## Notes:
+### Added
+- Added Nothing
+
+### Changed
+- Updated 'README.md" (Need to add to "Change log.md")
+
+### Removed
+- Removed Nothing
+
+
 ## [1.3] - 2022-07-16/17
+## Notes: God this is a pain to write
 ### Added
 - Added "VersionNumberUopdating.md" (Future Reference know as "VNU.md")
 
@@ -26,8 +64,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed Nothing
 
 
-# Notes: God this is a pain to write
 ## [1.2.2] - 2022-07-16
+## Notes: God this is a pain to write
 ### Added
 - Added "Planned Items" to "Change Log.md"
 
@@ -38,20 +76,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed Nothing
 
 
-# Notes: God this is a pain to write
-## [1.2.2] - 2022-07-16
-### Added
-- Added "Planned Items" to "Change Log.md"
-
-### Changed
-- Replaced "Coverscreen2.png" with the correct image
-
-### Removed
-- Removed Nothing
-
-
-# Notes: God this is a pain to write
 ## [1.2.1] - 2022-07-16
+## Notes: God this is a pain to write
 ### Added
 - Added Nothing
 
@@ -63,8 +89,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed Nothing
 
 
-# Notes: God this is a pain to write
 ## [1.2] - 2022-07-16
+## Notes: God this is a pain to write
 ### Added
 - Added "Logo Coverscreen"
 - Added "Change Log.txt"
@@ -152,7 +178,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/WITcCS
-[1.3]: N/A
+[1.3.3]:
+[1.3.2]: https://github.com/JSSchumacher/WITcCS/commit/d15964fe8da7172fb308967301c3e140f95f0c70
+[1.3.1]: https://github.com/JSSchumacher/WITcCS/commit/ed49112de71bb1895df20880a7a4726a5161b803
+[1.3]: https://github.com/JSSchumacher/WITcCS/commit/3b2d19618d828fab6b331cb5aabfde4690102eb3
 [1.2.2]: https://github.com/JSSchumacher/WITcCS/commit/d011ece652a4880c927991d0934dde1c408524dd
 [1.2.1]: https://github.com/JSSchumacher/WITcCS/commit/4c85cff937fcce81cf04d9f74086d0d47ec4606a
 [1.2]: https://github.com/JSSchumacher/WITcCS/commit/d0f6aceced888f7f5ac2451f29766b369cc83a5b
