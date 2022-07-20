@@ -1,3 +1,5 @@
+<img src="https://github.com/JSSchumacher/WITcCS/blob/83aeac2d3f29fc52423745f08c1cd95208cb42cd/Photos/WITc%20Logo/WITc%20Logo%20A4%20Trans%20A4%20Cal%20Screen.png" alt="WITc's Logo" width="300" height="200">
+
 # WITcCS
 ### Name
 WITcCS - Wireless Information Transfer on a calculator Chat Software
