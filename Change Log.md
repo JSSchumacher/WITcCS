@@ -14,6 +14,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions to README.md
 
 
+## [1.3.4] - 2022-07-20
+## Notes:
+### Added
+- Added "website" folder
+
+### Changed
+- Moved "_config.yml" to "website" folder
+
+### Removed
+- Removed Nothing
+
+
 ## [1.3.3] - 2022-07-19
 ## Notes:
 ### Added
