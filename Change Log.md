@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### Planed Items
 - Retake every screenshot with 400% scale
 - Add instructions to README.md
+- Redo VNU.md
 
 
 ## [1.3.5] - 2022-07-20

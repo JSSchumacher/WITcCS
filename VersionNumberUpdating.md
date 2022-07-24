@@ -19,7 +19,16 @@
 
 
 
-# General Update (GU)
+## General Update (GU)
 ### Jumps one digit after the SUN
 
 1.1 > (GU) > 1.1.1
+
+
+
+## So with that being said
+
+### Version Number: 1.3.6
+### Number Meaning: ReleaseUpdateNumber.SoftwareUpdateNumber.SubGeneralUpdateNumber
+
+#### So that meaning that version v1.3.6 was in release one with a software version of three and a sub general update of six
