@@ -12,7 +12,45 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### Planed Items
 - Retake every screenshot with 400% scale
 - Add instructions to README.md
-- Redo VNU.md
+
+
+## [1.3.8] - 2022-07-25
+## Notes: Forgot to update Change log
+### Added
+- Added Nothing
+
+### Changed
+- Updated "Change log.md"
+- Renamed "Change log.md" to "Changelog.md"
+- Updated "VNU.md"
+
+### Removed
+- Removed Nothing
+
+
+## [1.3.7] - 2022-07-23
+## Notes: 
+### Added
+- Added Nothing
+
+### Changed
+- Updated "VNU.md"
+
+### Removed
+- Removed "website" Folder
+- Removed "_config.yml"
+
+
+## [1.3.6] - 2022-07-20
+## Notes: 
+### Added
+- Added Nothing
+
+### Changed
+- Changed "README.md" by adding the image "WITc Logo A4 Trans A4 Cal Screen.png"
+
+### Removed
+- Removed Nothing
 
 
 ## [1.3.5] - 2022-07-20
@@ -199,11 +237,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - My life -_-
 
 ### Removed
-- Jacksh**.
+- Bruh
 
 
 [Github Page]: https://github.com/JSSchumacher/WITcCS
-[1.3.3]:
+[1.3.8]: N/A
+[1.3.7]: https://github.com/JSSchumacher/WITcCS/commit/f359aef656ecf1868023fbb99c6453773f1e1267
+[1.3.6]: https://github.com/JSSchumacher/WITcCS/commit/87c0c43456d2d5a5a5ff42bd0af7c88a7852f151
+[1.3.5]: https://github.com/JSSchumacher/WITcCS/commit/83aeac2d3f29fc52423745f08c1cd95208cb42cd
+[1.3.4]: https://github.com/JSSchumacher/WITcCS/commit/ff13b86c805856bef899b5ca1e4a99c00925b898
+[1.3.3]: https://github.com/JSSchumacher/WITcCS/commit/a0ec901ef7c877b224b422012c1ecdf8b83dc23b
 [1.3.2]: https://github.com/JSSchumacher/WITcCS/commit/d15964fe8da7172fb308967301c3e140f95f0c70
 [1.3.1]: https://github.com/JSSchumacher/WITcCS/commit/ed49112de71bb1895df20880a7a4726a5161b803
 [1.3]: https://github.com/JSSchumacher/WITcCS/commit/3b2d19618d828fab6b331cb5aabfde4690102eb3

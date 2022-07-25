@@ -1,34 +1,37 @@
-# Dictionary
+## Dictionary
 #### SU - Software Update
 #### GU - General Update
 #### SUN - Software Update Number
 #### ENOTSUN - Extra Number Other Than Software Update Number
-#### Number Jumping - going up in number a set amount
+#### Number Jumping - Increasing a number a set amount
 
+<br>
 
+### When Publishing To Github And Updating Version Number, "Number Jumping" (going up in number a set amount) differs from a software update and a general update.
+<br>
 
-## When Publishing To Github And Updating Version Number, "Number Jumping" (going up in number a set amount) differs from a software update and a general update.
 ## Software Update (SU)
+### A SU is released everytime a code for the program has been changed. (No matter if code is removed or added)
 ### Jumps one digit
 
 1.1 > (SU) 1.2
 
-#### And when there is a extra number after the software update number (SUN) jump like normal dropping the ENOTSUN (Extra Number Other Than Software Update Number)
+### And when there is a extra number after the software update number (SUN) jump like normal dropping the ENOTSUN (Extra Number Other Than Software Update Number)
 
 1.3.5 > (SU) > 1.4
 
-
+<br>
 
 ## General Update (GU)
+### A GU is when there is an addition or subtraction to anything other than the code itself (Example: Added Photos to GitHub or changing of the VNU.md file)
 ### Jumps one digit after the SUN
 
 1.1 > (GU) > 1.1.1
 
-
+<br>
 
 ## So with that being said
 
-### Version Number: 1.3.6
-### Number Meaning: ReleaseUpdateNumber.SoftwareUpdateNumber.SubGeneralUpdateNumber
-
-#### So that meaning that version v1.3.6 was in release one with a software version of three and a sub general update of six
+#### Version Number: 1.3.6
+#### Number Meaning: ReleaseUpdateNumber.SoftwareUpdateNumber.SubGeneralUpdateNumber
+#### So with that version v1.3.6 was in release one with a software version of three and a sub general update of six
