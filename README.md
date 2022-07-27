@@ -1,4 +1,12 @@
-<img src="https://github.com/JSSchumacher/WITcCS/blob/83aeac2d3f29fc52423745f08c1cd95208cb42cd/Photos/WITc%20Logo/WITc%20Logo%20A4%20Trans%20A4%20Cal%20Screen.png" alt="WITc's Logo" width="300" height="200">
+<p align="center">
+  <img width="300" src="https://github.com/JSSchumacher/WITcCS/blob/4c845eff75134ed2ec233be8b51cc66eb454f821/Photos/WITc%20Logo/WITc%20Logo%20A4%20Trans%20A2.png" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://img.shields.io/static/v1?label=Status&message=Development&color=blue">
+  <img align="center" src="https://img.shields.io/github/issues/JSSchumacher/WITcCS">
+  <img align="center" src="https://img.shields.io/github/stars/JSSchumacher/WITcCS">
+</p>
 
 # WITcCS
 ### Name
