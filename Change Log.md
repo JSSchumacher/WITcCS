@@ -14,6 +14,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions to README.md
 
 
+## [1.3.10] - 2022-07-27
+## Notes:
+### Added
+- Added "package.json"
+
+### Changed
+- Updated "README.md"
+
+### Removed
+- Removed Nothing
+
+
+## [1.3.9] - 2022-07-26
+## Notes:
+### Added
+- Added Nothing
+
+### Changed
+- Updated "README.md"
+
+### Removed
+- Removed Nothing
+
+
 ## [1.3.8] - 2022-07-25
 ## Notes: Forgot to update Change log
 ### Added

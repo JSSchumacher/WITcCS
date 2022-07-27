@@ -1,0 +1,10 @@
+{
+    "name": "WITcCS",
+    "version": "1.3.10",
+    "description": "WITcCS - Wireless Information Transfer on a calculator Chat Software",
+    "main": "WITCCS.8xp",
+    "author": {
+    "name": "Joshua Schumacher",
+    "email": "contact@joshuaschumacher.com",
+    "url": "https://joshuaschumacher.com" }
+} 

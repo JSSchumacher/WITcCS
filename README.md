@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://img.shields.io/static/v1?label=Status&message=Development&color=blue">
+  <img align="center" src="https://img.shields.io/github/package-json/v/JSSchumacher/WITcCS?label=version">
+  <img align="center" src="https://img.shields.io/static/v1?label=status&message=development&color=blue">
   <img align="center" src="https://img.shields.io/github/issues/JSSchumacher/WITcCS">
   <img align="center" src="https://img.shields.io/github/stars/JSSchumacher/WITcCS">
 </p>
