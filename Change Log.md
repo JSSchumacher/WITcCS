@@ -14,6 +14,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions to README.md
 
 
+## [1.3.11] - 2022-07-27
+## Notes: Changed the Image to stay no matter what
+### Added
+- Added Nothing
+
+### Changed
+- Updated "README.md"
+
+### Removed
+- Removed Nothing
+
+
 ## [1.3.10] - 2022-07-27
 ## Notes:
 ### Added

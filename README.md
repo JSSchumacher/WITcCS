@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="https://github.com/JSSchumacher/WITcCS/blob/4c845eff75134ed2ec233be8b51cc66eb454f821/Photos/WITc%20Logo/WITc%20Logo%20A4%20Trans%20A2.png" />
+  <img width="300" src="https://raw.githubusercontent.com/JSSchumacher/WITcCS/4c845eff75134ed2ec233be8b51cc66eb454f821/Photos/WITc%20Logo/WITc%20Logo%20A4%20Trans%20A2.png" />
 </p>
 
 <p align="center">
