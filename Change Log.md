@@ -14,6 +14,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions to README.md
 
 
+## [1.4.1] - 2022-07-28
+## Notes: I have no clue why the github version embed didn't update so this is a update to try and fix that (aka: I changed nothing and tried again)
+### Added
+- Added Nothing
+
+### Changed
+- Updating "package.json"
+
+### Removed
+- Removed Nothing
+
+
 ## [1.4] - 2022-07-27
 ## Notes: 
 ### Added
