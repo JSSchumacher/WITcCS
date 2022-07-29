@@ -17,10 +17,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.4.3] - 2022-07-28
 ## Notes: trying different strategy to get custom badge working
 ### Added
+- Added Nothing
+
+### Changed
+- Updated "README.md" (to show new custom badge)
+- Reworded "Changelog.md" (old "changed" words where in the wrong tense)
+- Renamed "Change log.md" back to "Changelog.md"
+
+### Removed
+- Removed Nothing
+
+
+## [1.4.3] - 2022-07-28
+## Notes: trying different strategy to get custom badge working
+### Added
 - Added "badgepackage.json"
 
 ### Changed
-- Updating "package.json"
+- Updated "package.json"
 
 ### Removed
 - Removed Nothing
@@ -32,7 +46,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added Nothing
 
 ### Changed
-- Updating "package.json"
+- Updated "package.json"
 
 ### Removed
 - Removed Nothing
@@ -44,7 +58,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added Nothing
 
 ### Changed
-- Updating "package.json"
+- Updated "package.json"
 
 ### Removed
 - Removed Nothing
@@ -56,7 +70,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added Nothing
 
 ### Changed
-- Updating WITcCS Logo Screen To Clear Drawings and Turn Off Axes Before Showing Logo
+- Updated WITcCS Logo Screen To Clear Drawings and Turn Off Axes Before Showing Logo
 
 ### Removed
 - Removed Nothing
@@ -325,7 +339,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/WITcCS
-[1.3.8]: N/A
+[1.4.2]: N/A
+[1.4.1]: https://github.com/JSSchumacher/WITcCS/commit/3c73cdaa73ecc4417ab3dab8b49eba48f4006235
+[1.4]: https://github.com/JSSchumacher/WITcCS/commit/f851252e0812c35f232e1260689ecd8f5c7be870
+[1.3.11]: https://github.com/JSSchumacher/WITcCS/commit/f8a3936c3368b17fb39fb7873ce4efccd64f0ef7
+[1.3.10]: https://github.com/JSSchumacher/WITcCS/commit/84a87346b215528f2f7f411a7995a1090fb1c1c5
+[1.3.9]: https://github.com/JSSchumacher/WITcCS/commit/b40f6b91c5eb2a06320cd1f314ee6c22ddd9c250
+[1.3.8]: https://github.com/JSSchumacher/WITcCS/commit/4c845eff75134ed2ec233be8b51cc66eb454f821
 [1.3.7]: https://github.com/JSSchumacher/WITcCS/commit/f359aef656ecf1868023fbb99c6453773f1e1267
 [1.3.6]: https://github.com/JSSchumacher/WITcCS/commit/87c0c43456d2d5a5a5ff42bd0af7c88a7852f151
 [1.3.5]: https://github.com/JSSchumacher/WITcCS/commit/83aeac2d3f29fc52423745f08c1cd95208cb42cd
