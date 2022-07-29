@@ -14,8 +14,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions to README.md
 
 
-## [1.4.3] - 2022-07-28
-## Notes: trying different strategy to get custom badge working
+## [1.4.4] - 2022-07-28
+## Notes: I am stupid and forgot change the version number (so now there are two V1.4.3s, yay!)
 ### Added
 - Added Nothing
 
@@ -339,7 +339,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/WITcCS
-[1.4.2]: N/A
+[1.4.4]: https://github.com/JSSchumacher/WITcCS/commit/62c8dd578d11bd003da41f6942651a0478d81c8d
+[1.4.3]: https://github.com/JSSchumacher/WITcCS/commit/0d75818e61f044c61ab5bb51b8a4a9b23d955315
+[1.4.2]: https://github.com/JSSchumacher/WITcCS/commit/bfd12411afcdc978b34c1dacd57e6d9e381fa3a1
 [1.4.1]: https://github.com/JSSchumacher/WITcCS/commit/3c73cdaa73ecc4417ab3dab8b49eba48f4006235
 [1.4]: https://github.com/JSSchumacher/WITcCS/commit/f851252e0812c35f232e1260689ecd8f5c7be870
 [1.3.11]: https://github.com/JSSchumacher/WITcCS/commit/f8a3936c3368b17fb39fb7873ce4efccd64f0ef7
