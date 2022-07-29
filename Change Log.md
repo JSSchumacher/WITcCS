@@ -14,6 +14,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions to README.md
 
 
+## [1.4.3] - 2022-07-28
+## Notes: trying different strategy to get custom badge working
+### Added
+- Added "badgepackage.json"
+
+### Changed
+- Updating "package.json"
+
+### Removed
+- Removed Nothing
+
+
 ## [1.4.2] - 2022-07-28
 ## Notes: Added a endpoint for custom badge ("stage" badge)
 ### Added
