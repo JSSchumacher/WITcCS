@@ -10,8 +10,36 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - CNAME file to enable GitHub Pages custom domain
 
 #### Planed Items
-- Retake every screenshot with 400% scale
 - Add instructions to README.md
+
+
+## [1.4.5] - 2022-08-01
+## Notes:
+### Added
+- Added "WITc 1.3" Folder
+- Added "Info"
+- Added "WITc 1.4" Folder
+- Added "Coverscreen1.png"
+- Added "Coverscreen2.png"
+- Added "CSM Sending Text.jpg"
+- Added "CSM Sent Text.jpg"
+- Added "CSM.jpg"
+- Added "EndCode.png"
+- Added "INPG1.png"
+- Added "INPG2.png"
+- Added "Logoscreen.png"
+- Added "LPG1.png"
+- Added "LPG2.png"
+- Added "LPG3.png"
+- Added "Menu.png"
+- Added "Run the cmd.png"
+- Added "TDLPG1.png"
+
+### Changed
+- Changed Nothing
+
+### Removed
+- Removed Nothing
 
 
 ## [1.4.4] - 2022-07-28
