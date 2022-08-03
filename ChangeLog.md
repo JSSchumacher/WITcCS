@@ -13,6 +13,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions to README.md
 
 
+# [1.4.5.1] - 2022-08-2
+## Notes: I truly am stupid (I forgot to update "package.json")
+### Added
+- Added Nothing
+
+### Changed
+- Updated "package.json"
+
+### Removed
+- Removed Nothing
+
+
 ## [1.4.5] - 2022-08-01
 ## Notes:
 ### Added
