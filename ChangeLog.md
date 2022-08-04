@@ -13,7 +13,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions to README.md
 
 
-# [1.4.7] - 2022-08-4
+## [1.4.8] - 2022-08-4
+## Notes: Realized that there were a few errors in the Change Log
+### Added
+- Added Nothing
+
+### Changed
+- Updated "ChangeLog.md"
+
+### Removed
+- Removed Nothing
+
+
+## [1.4.7] - 2022-08-4
 ## Notes: This has kinda been bugging me
 ### Added
 - Added Nothing
@@ -25,7 +37,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed Nothing
 
 
-# [1.4.6] - 2022-08-3
+## [1.4.6] - 2022-08-3
 ## Notes: I added the "Hey stupid do this before pushing" file
 ### Added
 - Added "PushProcedure.md (PushPro.md)"
@@ -38,7 +50,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed Nothing
 
 
-# [1.4.5.1] - 2022-08-2
+## [1.4.5.1] - 2022-08-2
 ## Notes: I truly am stupid (I forgot to update "package.json")
 ### Added
 - Added Nothing
@@ -404,7 +416,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/WITcCS
-[1.4.6]: https://www.joshuaschumacher.com/dev/work-in-progress
+[1.4.8]: https://www.joshuaschumacher.com/dev/work-in-progress
+[1.4.7]: https://github.com/JSSchumacher/WITcCS/commit/036a14ff43cb5f1f675ee454acc14a5edcbf9ad1
+[1.4.6]: https://github.com/JSSchumacher/WITcCS/commit/65f4ee66f0127f35f01a7a76725785b686065e5d
 [1.4.5.1]: https://github.com/JSSchumacher/WITcCS/commit/4c6c38c72a65c4bb7c1621fcdd4e55f95a8a0ba5
 [1.4.5]: https://github.com/JSSchumacher/WITcCS/commit/d8d812ad1689bc03a86af7191f15898841992a92
 [1.4.4]: https://github.com/JSSchumacher/WITcCS/commit/62c8dd578d11bd003da41f6942651a0478d81c8d
