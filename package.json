@@ -1,6 +1,6 @@
 {
-    "name": "WITcCS",
-    "version": "1.4.6",
+    "name": "witccs",
+    "version": "1.4.7",
     "description": "WITcCS - Wireless Information Transfer on a calculator Chat Software",
     "main": "WITCCS.8xp",
     "author": {
