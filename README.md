@@ -32,3 +32,7 @@ WITc is a project that I was inspired to make after seeing this [post](https://h
 - TI-84 Plus CE (Python Edition)
 - TI-84 Plus CE-T (Python Edition)
 (For the Python Calculators, it is because I don't have one to work on or test nor would I know how to make them talk to each other [BASIC To Python or Python To Python])
+
+<p align="center">
+  <img width="300" src="https://raw.githubusercontent.com/JSSchumacher/JSS-Embeds/main/Images/Xeon/X(7).png" />
+</p>

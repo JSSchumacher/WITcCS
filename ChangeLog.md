@@ -13,6 +13,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions to README.md
 
 
+## [1.4.9] - 2022-08-4
+## Notes: 
+### Added
+- Added Nothing
+
+### Changed
+- Updated "PushPro.md"
+- Updated "README.md"
+
+### Removed
+- Removed Nothing
+
+
 ## [1.4.8] - 2022-08-4
 ## Notes: Realized that there were a few errors in the Change Log
 ### Added
@@ -416,7 +429,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/WITcCS
-[1.4.8]: https://www.joshuaschumacher.com/dev/work-in-progress
+[1.4.9]: https://www.joshuaschumacher.com/dev/work-in-progress
+[1.4.8]: https://github.com/JSSchumacher/WITcCS/commit/d263f1c35f71fe776ce3054af89e6ffa03eeacc7
 [1.4.7]: https://github.com/JSSchumacher/WITcCS/commit/036a14ff43cb5f1f675ee454acc14a5edcbf9ad1
 [1.4.6]: https://github.com/JSSchumacher/WITcCS/commit/65f4ee66f0127f35f01a7a76725785b686065e5d
 [1.4.5.1]: https://github.com/JSSchumacher/WITcCS/commit/4c6c38c72a65c4bb7c1621fcdd4e55f95a8a0ba5
