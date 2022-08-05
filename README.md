@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" href="https://github.com/JSSchumacher/WITcCS">
   <img width="300" src="https://raw.githubusercontent.com/JSSchumacher/WITcCS/4c845eff75134ed2ec233be8b51cc66eb454f821/Photos/WITc%20Logo/WITc%20Logo%20A4%20Trans%20A2.png" />
 </p>
 
@@ -33,6 +33,6 @@ WITc is a project that I was inspired to make after seeing this [post](https://h
 - TI-84 Plus CE-T (Python Edition)
 (For the Python Calculators, it is because I don't have one to work on or test nor would I know how to make them talk to each other [BASIC To Python or Python To Python])
 
-<p align="center">
+<p align="center" href="https:/https://github.com/JSSchumacher"> 
   <img width="300" src="https://raw.githubusercontent.com/JSSchumacher/JSS-Embeds/main/Images/Xeon/Transparent/Word/XEON%20Outline.png" />
 </p>

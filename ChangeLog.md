@@ -13,6 +13,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions to README.md
 
 
+## [1.4.11] - 2022-08-05
+## Notes: Added links for images
+### Added
+- Added Nothing
+
+### Changed
+- Updated "README.md"
+
+### Removed
+- Removed Nothing
+
+
 ## [1.4.10] - 2022-08-05
 ## Notes: Don't worry the people with no eyes (light mode user) I still dislike you, but I got you
 ### Added
@@ -442,7 +454,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/WITcCS
-[1.4.10]: https://www.joshuaschumacher.com/dev/work-in-progress
+[1.4.11]: https://www.joshuaschumacher.com/dev/work-in-progress
+[1.4.10]: https://github.com/JSSchumacher/WITcCS/commit/f059b85d2423c0b3b190e6284b841319ccc687f0
 [1.4.9]: https://github.com/JSSchumacher/WITcCS/commit/9c055b4a3255719a48c880df39eac6c3faf4325c
 [1.4.8]: https://github.com/JSSchumacher/WITcCS/commit/d263f1c35f71fe776ce3054af89e6ffa03eeacc7
 [1.4.7]: https://github.com/JSSchumacher/WITcCS/commit/036a14ff43cb5f1f675ee454acc14a5edcbf9ad1
