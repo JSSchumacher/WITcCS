@@ -1,0 +1,28 @@
+"TESTS TXT ON CALC W/ STRINGS
+"JOSHUA SCHUMACHER
+"V1.1 09-10-22
+"NTD
+
+ClrHome
+Menu("CHOOSE","INPUT",IP,"READ",RD,"QUIT",Q
+
+Lbl IP
+ClrHome
+" →Str1
+Repeat K=105
+Repeat Ans>40 and Ans<94 or max(Ans={105,23
+getKey→K
+End
+Ans-20-5int(.1Ans
+If 25>length(Str1) and 0<Ans and Ans<29
+Then
+Str1+sub("ABC  DEFGHIJKLMNOPQRSTUVWXYZ",Ans,1→Str1
+Text(10,1,Str1
+End
+If K=23 and 1<length(Str1
+Then
+sub(Str1,1,length(Str1)-1→Str1
+Text(10,1,Str1,"   //three spaces after the "
+End
+If 1<length(Str1
+sub(Str1,2,length(Str1)-1→Str1

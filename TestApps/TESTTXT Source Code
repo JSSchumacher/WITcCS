@@ -1,0 +1,27 @@
+"TESTTXT PROGRAM TO TEST TXT
+"JOSHUA SCHUMACHER
+"V1.1 08-29-22
+"WORKED
+
+ClrHome
+Disp "SET A TO >0
+Pause 
+ClrHome
+Disp "TESTING
+Wait 1
+ClrHome
+Disp "TESTING.
+Wait 1
+ClrHome
+Disp "TESTING..
+Wait 1
+ClrHome
+Disp "TESTING...
+Wait 1
+GetCalc(Str1)
+If A=0
+Then
+Disp "DROPPED"
+Else
+Disp "CONNECTED
+End

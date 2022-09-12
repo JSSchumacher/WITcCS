@@ -13,6 +13,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions to README.md
 
 
+## [1.5] - 2022-09-11
+## Notes: Added Testing apps to test connection between Calcs and Added GridOff to turn off grids so they dont overlay with the image
+### Added
+- Added "TestApps" Folder
+- Added "TESTTXT" (Test connection with sending numbers in Vars between Calcs) (Tested: Worked)
+- Added "TESTTXT Source Code"
+- Added "TESTTXT2" (Test connection with sending letters in Strings between Calcs) (Tested: Unknown/Still writing code)
+- Added "TESTTXT2 Source Code"
+- Added "GridOff" to "WITCCS SC"
+
+### Changed
+- Updated "source code" to "WITCCS Source Code"
+
+### Removed
+- Removed Nothing
+
+
 ## [1.4.11] - 2022-08-05
 ## Notes: Added links for images
 ### Added
@@ -454,7 +471,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/WITcCS
-[1.4.11]: https://www.joshuaschumacher.com/dev/work-in-progress
+[1.5]: https://www.joshuaschumacher.com/dev/work-in-progress
+[1.4.11]: https://github.com/JSSchumacher/WITcCS/commit/b95e66f9d97aa6e36e6011baf269c60a6670eea3
 [1.4.10]: https://github.com/JSSchumacher/WITcCS/commit/f059b85d2423c0b3b190e6284b841319ccc687f0
 [1.4.9]: https://github.com/JSSchumacher/WITcCS/commit/9c055b4a3255719a48c880df39eac6c3faf4325c
 [1.4.8]: https://github.com/JSSchumacher/WITcCS/commit/d263f1c35f71fe776ce3054af89e6ffa03eeacc7
