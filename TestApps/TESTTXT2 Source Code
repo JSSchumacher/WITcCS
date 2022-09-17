@@ -1,6 +1,6 @@
 "TESTS TXT ON CALC W/ STRINGS
 "JOSHUA SCHUMACHER
-"V1.1 09-10-22
+"V1.2 09-17-22
 "NTD
 
 ClrHome
@@ -16,13 +16,13 @@ End
 Ans-20-5int(.1Ans
 If 25>length(Str1) and 0<Ans and Ans<29
 Then
-Str1+sub("ABC  DEFGHIJKLMNOPQRSTUVWXYZ",Ans,1→Str1
+Str1+sub("ABCDEFGHIJKLMNOPQRSTUVWXYZ",Ans,1→Str1
 Text(10,1,Str1
 End
 If K=23 and 1<length(Str1
 Then
 sub(Str1,1,length(Str1)-1→Str1
-Text(10,1,Str1,"   //three spaces after the "
+Text(10,1,Str1,"   "
 End
 If 1<length(Str1
 sub(Str1,2,length(Str1)-1→Str1

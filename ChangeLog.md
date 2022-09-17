@@ -13,6 +13,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions to README.md
 
 
+## [1.5.1] - 2022-09-17
+## Notes:
+### Added
+- Added "WITc v1.5" Folder
+
+### Changed
+- Updated "source code" to "WITCCS Source Code" (Again)
+- Renamed "WITc 1.{3-4}" to "WITc v1.{3-4}"
+- Updated "README.md"
+- Updated "VNU.md"
+- Updated "TESTTXT2 SC" & "TESTXT2.8xp"
+
+### Removed
+- Removed Nothing
+
+
 ## [1.5] - 2022-09-11
 ## Notes: Added Testing apps to test connection between Calcs and Added GridOff to turn off grids so they dont overlay with the image
 ### Added
@@ -471,7 +487,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/WITcCS
-[1.5]: https://www.joshuaschumacher.com/dev/work-in-progress
+[1.5.1]: https://www.joshuaschumacher.com/dev/work-in-progress
+[1.5]: https://github.com/JSSchumacher/WITcCS/commit/08c6dbe7739a3802e6da626b6003d4a37e3b94e1
 [1.4.11]: https://github.com/JSSchumacher/WITcCS/commit/b95e66f9d97aa6e36e6011baf269c60a6670eea3
 [1.4.10]: https://github.com/JSSchumacher/WITcCS/commit/f059b85d2423c0b3b190e6284b841319ccc687f0
 [1.4.9]: https://github.com/JSSchumacher/WITcCS/commit/9c055b4a3255719a48c880df39eac6c3faf4325c
