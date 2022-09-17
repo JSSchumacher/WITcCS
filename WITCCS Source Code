@@ -2,8 +2,8 @@
 "WITcCS - Wireless Information Transfer on a calculator Chat Software
 "GNU Affero General Public License v3.0
 "Date Created: 07/13/2022
-"Last Update: 08/31/2022
-"WITcCS V1.5
+"Last Update: 09/13/2022
+"WITcCS V1.6
 
 
 "Cover Screen Frontend
@@ -21,7 +21,7 @@ Output(2,10,"WITcCS
 Output(3,4,"Wireless Information 
 Output(4,2,"Transfer on a calculator
 Output(5,7,"Chat Software
-Output(7,11,"v1.5
+Output(7,11,"v1.6
 Output(8,4,"By Joshua Schumacher
 Output(9,4,"joshuaschumacher.com
 Wait 1 
@@ -219,7 +219,7 @@ Text(39,10,"v3.0. Of which can be found here at
 Text(51,10,"github.com/JSSchumacher/WITcCS
 Text(63,10,"/blob/bc06dced7d01b629485f301c6
 Text(75,10,"40fb65aeb918a05/LICENSE
-Text(97,55,"[Press  enter  to  cont.]
+Text(145,55,"[Press  enter  to  cont.]
 Pause 
 ClrDraw
 Text(0,100,"License
@@ -239,13 +239,13 @@ ClrDraw
 Text(0,100,"License
 "Contributors provide an express
 Text(15,10,"This software is licensed under the
-Text(15,10,"Contributors provide an express
-Text(27,10,"grant of patent rights. When a mod-
-Text(39,10,"ified version is used to provide a
-Text(51,10,"service over a network, the 
-Text(63,10,"complete source code of the modif-
-Text(75,10,"ied version must be made available.
-Text(97,55,"[Press  enter  to  cont.]
+Text(27,10,"Contributors provide an express
+Text(39,10,"grant of patent rights. When a mod-
+Text(51,10,"ified version is used to provide a
+Text(63,10,"service over a network, the 
+Text(75,10,"complete source code of the modif-
+Text(87,10,"ied version must be made available.
+Text(145,55,"[Press  enter  to  cont.]
 Pause 
 ClrDraw
 Goto M
@@ -268,7 +268,7 @@ DelVar Z
 DelVar Pic3
 FnOn 
 AxesOn 
-Disp "WITcCS V1.5
+Disp "WITcCS V1.6
 Disp "Joshua Schumacher
 Disp "joshuaschumacher.com
 Disp "Some Rights Reserved

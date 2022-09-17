@@ -13,6 +13,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions to README.md
 
 
+## [1.6] - 2022-09-17
+## Notes: Overlapping text found in License page
+### Added
+- Added Nothing
+
+### Changed
+- Reformated "License" page in WITcCS
+
+### Removed
+- Removed Nothing
+
+
 ## [1.5.1] - 2022-09-17
 ## Notes:
 ### Added
@@ -487,7 +499,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/WITcCS
-[1.5.1]: https://www.joshuaschumacher.com/dev/work-in-progress
+[1.6]: https://www.joshuaschumacher.com/dev/work-in-progress 
+[1.5.1]: https://github.com/JSSchumacher/WITcCS/commit/6ef284fb746106cf0edfadf74746f0a7800eca96
 [1.5]: https://github.com/JSSchumacher/WITcCS/commit/08c6dbe7739a3802e6da626b6003d4a37e3b94e1
 [1.4.11]: https://github.com/JSSchumacher/WITcCS/commit/b95e66f9d97aa6e36e6011baf269c60a6670eea3
 [1.4.10]: https://github.com/JSSchumacher/WITcCS/commit/f059b85d2423c0b3b190e6284b841319ccc687f0
