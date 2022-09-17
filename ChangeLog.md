@@ -13,6 +13,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions to README.md
 
 
+## [1.6.0] - 2022-09-17
+## Notes: Did a stupid and forgot to check PushPro
+### Added
+- Added Nothing
+
+### Changed
+- Updated "package.json"
+
+### Removed
+- Removed Nothing
+
+
 ## [1.6] - 2022-09-17
 ## Notes: Overlapping text found in License page
 ### Added
@@ -499,7 +511,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/WITcCS
-[1.6]: https://www.joshuaschumacher.com/dev/work-in-progress 
+[1.6.0]: https://www.joshuaschumacher.com/dev/work-in-progress
+[1.6]: https://github.com/JSSchumacher/WITcCS/commit/22ff50bbeb9df4513d70fadd011bd43bcfcc2bf2 
 [1.5.1]: https://github.com/JSSchumacher/WITcCS/commit/6ef284fb746106cf0edfadf74746f0a7800eca96
 [1.5]: https://github.com/JSSchumacher/WITcCS/commit/08c6dbe7739a3802e6da626b6003d4a37e3b94e1
 [1.4.11]: https://github.com/JSSchumacher/WITcCS/commit/b95e66f9d97aa6e36e6011baf269c60a6670eea3
