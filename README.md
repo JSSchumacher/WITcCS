@@ -36,3 +36,5 @@
 <p align="center" href="https:/https://github.com/JSSchumacher"> 
   <img width="300" src="https://raw.githubusercontent.com/JSSchumacher/JSS-Embeds/main/Images/Xeon/Transparent/Word/XEON%20Outline.png" />
 </p>
+
+##### Written By [Xeon](https://github.com/JSSchumacher) <br> Licensed under the [GNU Affero General Public License v3.0](https://github.com/JSSchumacher/XJSS-DFiles/blob/main/LICENSE) <br> Version 10.01.22.0002

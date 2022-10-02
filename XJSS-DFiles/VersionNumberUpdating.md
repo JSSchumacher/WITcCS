@@ -29,3 +29,9 @@
 #### Number Meaning: ReleaseUpdateNumber.SoftwareUpdateNumber.SubGeneralUpdateNumber
 #### So with that version v1.3.6 was in release one with a software version of three and a sub general update of six
 #### NOTE: SUN only works in the format of X.X.X
+
+## Footer Version Updating
+
+#### Very simple, XX.XX.XX.XXXX (ex: 10.01.22.0002) MM.DD.YY.VERSIONNUMBER
+
+##### Written By [Xeon](https://github.com/JSSchumacher) <br> Licensed under the [GNU Affero General Public License v3.0](https://github.com/JSSchumacher/XJSS-DFiles/blob/main/LICENSE) <br> Version 10.01.22.0002

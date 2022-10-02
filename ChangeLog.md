@@ -13,6 +13,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions to README.md
 
 
+## [1.6.1] - 2022-09-17
+## Notes: Updated stuff on here from [XJSS-DFiles](https://github.com/JSSchumacher/XJSS-DFiles). Also Trying to figure out what to do with XJSS-DFiles in projects
+### Added
+- Added "XJSS-DFiles" Folder
+
+### Changed
+- Moved "VNU.md" to "XJSS-DFiles" Folder
+- Moved "README.md" to "XJSS-DFiles" Folder
+- Moved "PushPro.md" to "XJSS-DFiles" Folder
+- Updated "VNU.md"
+- Updated "PushPro.md"
+- Updated "README.md"
+
+### Removed
+- Removed Nothing
+
+
 ## [1.6.0] - 2022-09-17
 ## Notes: Did a stupid and forgot to check PushPro
 ### Added
@@ -511,7 +528,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/WITcCS
-[1.6.0]: https://www.joshuaschumacher.com/dev/work-in-progress
+[1.6.1]: https://www.joshuaschumacher.com/dev/work-in-progress
+[1.6.0]: https://github.com/JSSchumacher/WITcCS/commit/f8db714f50832d5cba2e244436cb4f0d93e45962
 [1.6]: https://github.com/JSSchumacher/WITcCS/commit/22ff50bbeb9df4513d70fadd011bd43bcfcc2bf2 
 [1.5.1]: https://github.com/JSSchumacher/WITcCS/commit/6ef284fb746106cf0edfadf74746f0a7800eca96
 [1.5]: https://github.com/JSSchumacher/WITcCS/commit/08c6dbe7739a3802e6da626b6003d4a37e3b94e1
